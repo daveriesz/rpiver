@@ -48,8 +48,8 @@ printf "Manufacturer: %s\n" "${mfg}"
 
 exit 0
 
-# KEEP THIS TABLE NEAT!!
 # version information from https://elinux.org/RPi_HardwareHistory
+# KEEP THIS TABLE NEAT!!
 
 ### +----------+--------------+---------------------------------+--------------+-----------------+---------------------------+--------------+ 
 ### | Revision | Release Date | Model                           | PCB Revision | Memory          | Notes                     | Manufacturer | 
